@@ -21,5 +21,6 @@
   "workbench.colorTheme": "Default Light Modern",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
-  "python.linting.enabled": false
+  "python.linting.enabled": false,
+  "python.terminal.executeInFileDir": true
 }
